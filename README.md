@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-4-5-api-pt](https://github.com/d4qb-s4y087m/seedream-4-5-api-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-4-5-api-cn](https://github.com/etcg3hzbrw4d/seedream-4-5-api-cn) · Deutsch [seedream-4-5-api-de](https://github.com/q3zkzqq3f/seedream-4-5-api-de) · Español [seedream-4-5-api-es](https://github.com/kxoboq/seedream-4-5-api-es) · Français [seedream-4-5-api-fr](https://github.com/nhpm6vg83se/seedream-4-5-api-fr) · Relay/gateway `seedream-4-5-api-gateway` · Bahasa `seedream-4-5-api-id` · 日本語 `seedream-4-5-api-ja` · 한국어 [seedream-4-5-api-ko](https://github.com/ucy7hfyqm/seedream-4-5-api-ko) · Русский [seedream-4-5-api-ru](https://github.com/f3i936/seedream-4-5-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [seedream-4-5](https://github.com/topics/seedream-4-5) · [seedream-4-5-api](https://github.com/topics/seedream-4-5-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
